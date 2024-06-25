@@ -1,5 +1,5 @@
 # KROTG15
-TG151001
+TG1510
 FROM golang:1.19 as op
 
 WORKDIR /app
